@@ -1,5 +1,6 @@
 # sim2D
 My first attempt at building a flight simulator.
+simOpen contains the "public static void main(String[] args){...", so the simulator is started with simOpen.
 
 To compile from a terminal:
 $ javac sim2D/*.java
