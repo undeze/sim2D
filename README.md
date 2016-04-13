@@ -1,12 +1,18 @@
 # sim2D
 My first attempt at building a flight simulator.
-simOpen contains the "public static void main(String[] args){...", so the simulator is started with simOpen.
+The simOpen class contains the "public static void main(String[] args){...", so the simulator is started with simOpen.
 
 To compile from a terminal:
 $ javac sim2D/*.java
 
 To run from a terminal:
 $ java sim2D/simOpen
+
+The sim2 class contains all the calculations of lift, thrust, drag, angle of attack, slide-slip angles, etc.
+
+The simGraphics1 class provides the 2D graphics.
+
+The autoPilot class drives the autopilot.
 
 The simulator has been designed to fly on autopilot. However, it can be 'hand' flown with the keys listed here.
 
