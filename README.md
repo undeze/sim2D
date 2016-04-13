@@ -24,11 +24,11 @@ Decrease thrust: PageDown
 
 Use the mouse to select heading, altitude, attitude (if desired), raise and lower the undercarriage (important for landing!), arming the ILS localizer (LLZ) and ILS glideslope (GS). Click on the yellow numbers to select heading, altitude and attitude.
 
-PFD = Primary Flight Display
-AP = Autopilot
-VV = Velocity Vector (green circle on PFD)
-FD = Flight Director (pink bars on PFD)
-ND = Navigation Display
+PFD = Primary Flight Display,
+AP = Autopilot,
+VV = Velocity Vector (green circle on PFD),
+FD = Flight Director (pink bars on PFD),
+ND = Navigation Display.
 
 
 
