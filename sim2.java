@@ -3,9 +3,16 @@ package sim2D;
 import java.util.Iterator;
 import java.util.LinkedList;
 import java.util.Queue;
-public class sim2 implements Runnable  //Chris Underwood
+
+
+/*
+*   sim2.java does all the calculations for lift, drag, flight path, etc.
+*   Author: Chris Underwood
+*/
+
+
+public class sim2 implements Runnable  
 {
-    // instance variables - replace the example below with your own
     private Thread runner;
     static private boolean going = true;
 
