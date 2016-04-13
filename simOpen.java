@@ -9,7 +9,6 @@ import java.awt.GridLayout;
  * Chris Underwood
  * undeze@gmail.com
  * 
- * The actual JFrame itself
  */
 public class  simOpen  extends JFrame 
 {
